@@ -1,4 +1,4 @@
-module github.com/forscht/ddrv
+module github.com/NexGenDisk/gvsvh
 
 go 1.20
 
