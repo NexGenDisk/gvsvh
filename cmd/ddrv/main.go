@@ -9,13 +9,13 @@ import (
 	"github.com/alecthomas/kong"
 	"github.com/joho/godotenv"
 
-	"github.com/forscht/ddrv/internal/config"
-	"github.com/forscht/ddrv/internal/dataprovider"
-	"github.com/forscht/ddrv/internal/filesystem"
-	"github.com/forscht/ddrv/internal/ftp"
-	"github.com/forscht/ddrv/internal/http"
-	"github.com/forscht/ddrv/internal/webdav"
-	"github.com/forscht/ddrv/pkg/ddrv"
+	"github.com/NexGenDisk/gvsvh/internal/config"
+	"github.com/NexGenDisk/gvsvh/internal/dataprovider"
+	"github.com/NexGenDisk/gvsvh/internal/filesystem"
+	"github.com/NexGenDisk/gvsvh/internal/ftp"
+	"github.com/NexGenDisk/gvsvh/internal/http"
+	"github.com/NexGenDisk/gvsvh/internal/webdav"
+	"github.com/NexGenDisk/gvsvh/pkg/ddrv"
 )
 
 func main() {
