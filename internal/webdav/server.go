@@ -7,8 +7,8 @@ import (
 	"github.com/spf13/afero"
 	"golang.org/x/net/webdav"
 
-	"github.com/forscht/ddrv/internal/config"
-	"github.com/forscht/ddrv/pkg/requestip"
+	"github.com/NexGenDisk/gvsvh/internal/config"
+	"github.com/NexGenDisk/gvsvh/pkg/requestip"
 )
 
 func New(dfs afero.Fs) *http.Server {
